@@ -1,0 +1,5 @@
+1. Başla
+2. OKU (A, B, C )
+3. ortalama= (A+B+C)/3
+4. YAZ (ortalama)
+5. Bitir

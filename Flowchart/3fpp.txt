@@ -1,0 +1,6 @@
+1. Başla
+2. OKU (A,B,C)
+3. Eğer (A>B && A>C) ise Yaz (A)
+4. Eğer (B>A && B>C) ise Yaz (B)
+5. Eğer (C>A && C>B) ise Yaz (C)
+6. Bitir

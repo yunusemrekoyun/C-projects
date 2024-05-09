@@ -1,0 +1,5 @@
+1. Başla 
+2. °C cinsinden sicaklik değeri girin: (C)
+3. F=1.8*C+32 hespala
+4. F göster
+5. Bitir

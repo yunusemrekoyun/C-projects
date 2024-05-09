@@ -1,0 +1,8 @@
+1. Başla
+2. Dogru pin tanımla (1234)
+3. sayac=0
+4. Pin kodu gir (PİN)
+5. Eğer (PİN==DOGRUPİN) YAZ(SİSTEM AÇILDI)
+6. Değilse Eğer (SAYAC <3) ADIM 4'E GİT 
+7. Değilse YAZ(SİSTEM BLOKE)
+8. Bitir
